@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleSQLite</string>
+
+    <string name="app">SQLite Demo App</string>
+
+    <string name="login">Login - Page</string>
+    <string name="username">Username</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+    <string name="btn">Click here to register</string>
+    <string name="btnLogin">Login >></string>
+</resources>
